@@ -3,6 +3,9 @@
 
 教程视频：https://www.youtube.com/watch?v=BhGm1B8hRI0
 
+<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/46e0db12-8abc-41ba-b2e9-ce7f88ce1087" />
+
+
 # 使用方法
 1.安装Automa
 
